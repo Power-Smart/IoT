@@ -1,3 +1,3 @@
 IoT
 
-Use Language : C++
+Use Language: Embedded C++
